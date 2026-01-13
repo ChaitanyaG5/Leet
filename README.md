@@ -45,4 +45,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ChaitanyaG5/Leet/tree/master/0025-reverse-nodes-in-k-group) |
+| [1922-count-good-numbers](https://github.com/ChaitanyaG5/Leet/tree/master/1922-count-good-numbers) |
+## Math
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/ChaitanyaG5/Leet/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
