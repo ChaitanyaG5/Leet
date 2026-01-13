@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/ChaitanyaG5/Leet/tree/master/1922-count-good-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/ChaitanyaG5/Leet/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
