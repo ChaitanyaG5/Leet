@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ChaitanyaG5/Leet/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/ChaitanyaG5/Leet/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/ChaitanyaG5/Leet/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ChaitanyaG5/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/ChaitanyaG5/Leet/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/ChaitanyaG5/Leet/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ChaitanyaG5/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -61,8 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ChaitanyaG5/Leet/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ChaitanyaG5/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ChaitanyaG5/Leet/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ChaitanyaG5/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
