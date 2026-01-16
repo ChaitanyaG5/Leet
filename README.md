@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ChaitanyaG5/Leet/tree/master/0217-contains-duplicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ChaitanyaG5/Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ChaitanyaG5/Leet/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/ChaitanyaG5/Leet/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/ChaitanyaG5/Leet/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/ChaitanyaG5/Leet/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/ChaitanyaG5/Leet/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ChaitanyaG5/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Merge Sort
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ChaitanyaG5/Leet/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/ChaitanyaG5/Leet/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/ChaitanyaG5/Leet/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/ChaitanyaG5/Leet/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/ChaitanyaG5/Leet/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ChaitanyaG5/Leet/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ChaitanyaG5/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
