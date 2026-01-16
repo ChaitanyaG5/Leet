@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ChaitanyaG5/Leet/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/ChaitanyaG5/Leet/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ChaitanyaG5/Leet/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/ChaitanyaG5/Leet/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ChaitanyaG5/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ChaitanyaG5/Leet/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ChaitanyaG5/Leet/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/ChaitanyaG5/Leet/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ChaitanyaG5/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ChaitanyaG5/Leet/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/ChaitanyaG5/Leet/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ChaitanyaG5/Leet/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ChaitanyaG5/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
