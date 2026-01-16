@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ChaitanyaG5/Leet/tree/master/0179-largest-number) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChaitanyaG5/Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ChaitanyaG5/Leet/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ChaitanyaG5/Leet/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ChaitanyaG5/Leet/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/ChaitanyaG5/Leet/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/ChaitanyaG5/Leet/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ChaitanyaG5/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Merge Sort
@@ -67,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ChaitanyaG5/Leet/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/ChaitanyaG5/Leet/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/ChaitanyaG5/Leet/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ChaitanyaG5/Leet/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ChaitanyaG5/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ChaitanyaG5/Leet/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/ChaitanyaG5/Leet/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ChaitanyaG5/Leet/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ChaitanyaG5/Leet/tree/master/2410-maximum-matching-of-players-with-trainers) |
