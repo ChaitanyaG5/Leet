@@ -4,20 +4,29 @@ class Solution {
         {
             return 0;
         }
-        Arrays.sort(nums);
+        // Arrays.sort(nums);
+        // int i=0;
+        // int j=1;
+        // int large= 0;
+        // while(j<nums.length)
+        // {
+        //     int result = nums[j] - nums[i];
+        //     if(result>large)
+        //     {
+        //         large = result;
+        //     }
+        //     i++;
+        //     j++;
+        // }
+        // return large;
         int i=0;
-        int j=1;
-        int large= 0;
-        while(j<nums.length)
+        int max =0;
+        Arrays.sort(nums);
+        while(i+1<nums.length)
         {
-            int result = nums[j] - nums[i];
-            if(result>large)
-            {
-                large = result;
-            }
+            max = Math.max(max,nums[i+1]-nums[i]);
             i++;
-            j++;
         }
-        return large;
+        return max;
     }
 }
