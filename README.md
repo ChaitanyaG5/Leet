@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ChaitanyaG5/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/ChaitanyaG5/Leet/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ChaitanyaG5/Leet/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ChaitanyaG5/Leet/tree/master/0148-sort-list) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ChaitanyaG5/Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ChaitanyaG5/Leet/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/ChaitanyaG5/Leet/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/ChaitanyaG5/Leet/tree/master/0179-largest-number) |
